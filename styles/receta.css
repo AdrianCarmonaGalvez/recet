@@ -1,0 +1,17 @@
+@font-face {
+    font-family: opensans;
+    src: url(../fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+body {background-image: url(../imagenes/green-gingham-tablecloth-pattern-free-vector.jpg);
+        font-family: opensans;}
+#container {width: 80%;
+            background-color: white;
+            margin: auto;
+            padding: 25px;}
+#container h1 {text-align: center;}
+#container h2 {background-color: rgb(129, 206, 126);
+                border-radius: 30px;
+                padding-left: 10px;}
+#container dl dt {font-weight: bold;}
+#container iframe { display: block;
+                    margin: auto;}
